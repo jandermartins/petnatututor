@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152918415867",
+    "firebase_url": "https://credible-bay-256721-default-rtdb.firebaseio.com",
+    "project_id": "credible-bay-256721",
+    "storage_bucket": "credible-bay-256721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152918415867:android:dc248d510aa3d90a08135e",
+        "android_client_info": {
+          "package_name": "br.crateus.jander.petnatututor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152918415867-m92gc8fonesavnepngjqa346ccldn6rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteKh0pl_GXqxMcPPRmb0TVaZm98WexU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152918415867-m92gc8fonesavnepngjqa346ccldn6rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
